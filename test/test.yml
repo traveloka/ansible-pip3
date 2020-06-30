@@ -3,4 +3,4 @@
   vars:
     apt_cache_valid_time: 3600
   roles:
-    - role: ansible-pip
+    - role: ansible-pip3
