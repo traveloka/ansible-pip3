@@ -1,0 +1,12 @@
+---
+galaxy_info:
+  description: Installs pip3
+  company: Traveloka
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+  categories:
+    - packaging
+    - system
+dependencies: []
